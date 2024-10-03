@@ -2,4 +2,4 @@
 abrir html
 
 
-https://github.com/RebecaGis/PDAU-Arquivos.git
+https://rebecagis.github.io/PDAU-Arquivos/
